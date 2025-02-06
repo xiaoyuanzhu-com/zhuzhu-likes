@@ -8,7 +8,7 @@ I know I do, but someone tell me why?
 
 ## 1.1 - Selfhosted As First-class Citizen
 
-There are products who are open source, and provide both cloud option and selfhosted option, sometimes compromise features and priorities of selfhosted version, I can understand but I don't like that.
+There are products who are open source, provide both cloud option and selfhosted option, but compromise features and priorities of selfhosted version, I don't like that.
 
 # Standard #2 - I Own My Data
 
@@ -16,9 +16,11 @@ There are products who are open source, and provide both cloud option and selfho
 
 I want to be crystal clear on this.
 
-## 2.2 - Data In Open Formats
+## 2.2 - Data In Open And Popular Formats
 
 I don't like [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), so either data is already in open format, like markdown, or can be exported to open formats easily.
+
+Popular format is also important, better ecosystem means more options.
 
 # Standard #3 - Friendly UI
 
