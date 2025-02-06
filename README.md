@@ -10,6 +10,8 @@ I know I do, but someone tell me why?
 
 There are products who are open source, provide both cloud option and selfhosted option, but compromise features and priorities of selfhosted version, I don't like that.
 
+## 1.2 - Actively Maintained
+
 # Standard #2 - I Own My Data
 
 ## 2.1 - I Own My Data, Legally
