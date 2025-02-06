@@ -24,12 +24,18 @@ I don't like [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), so 
 
 ## 3.1 - Cross Platform
 
-# Standard #4 - Bug Free
+## 3.2 - Good Looking And Intuitive
 
-# Standard #5 - Extensible
+# Standard #4 - Low Maintenance
 
-Not every app needs very flexible extensibility, but when it does, I want to be capable.
+## 4.1 - Run In Docker
 
-# Standard #6 - Observable
+## 4.2 - Documentation Or Community Support
+
+# Standard #5 - Observable
 
 Not every app has long-running services in the background, but when it does, I want to be able to monitor its status.
+
+# Standard #6 - Extensible
+
+Not every app needs extensibility, but when it does, I want to be capable.
