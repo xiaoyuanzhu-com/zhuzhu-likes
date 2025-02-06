@@ -22,6 +22,8 @@ I want to be crystal clear on this.
 
 I don't like [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), so either data is already in open format, like markdown, or can be exported to open formats easily.
 
+I like apps who are open and supportive when user want to migrate to another option, they help user tranfer the data, instead of holding back.
+
 Popular format is also important, better ecosystem means more options.
 
 # Standard #3 - Friendly UI
