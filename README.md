@@ -74,3 +74,15 @@ Automation is also much easier with HTTP API.
 Docker makes it easier to install / update / daemon / backup / monitor.
 
 [5] No Buggy, No Laggy
+
+[6.1] Observable & Extensible
+
+Not every app needs this, it's a bonus point.
+
+[6.2] Backup & Updates
+
+I would prefer backup and updates done beyond the app layer, it's more universal for every app, so I don't expect the app itself to be very strong in this 2.
+
+[6.3] Security & Privacy
+
+Security usually is not a big concern for me, not before I need to open some services to public internet.
