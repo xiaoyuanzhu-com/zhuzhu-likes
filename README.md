@@ -79,7 +79,7 @@ Automation is also much easier with HTTP API.
 
 [4] Docker
 
-Docker makes it easier to install / update / daemon / backup / monitor.
+Docker is preferred whenever applicable. Docker makes it easier to install / update / daemon / backup / monitor.
 
 [5] No Buggy, No Laggy
 
