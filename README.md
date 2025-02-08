@@ -1,6 +1,8 @@
 # zhuzhu-standard
 
-_zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and create things, run things he controls. _zhuzhu_ had hosted many apps in his homelab, seen the lifecycle of softwares and communities, over the years, _zhuzhu_ started to prefer apps who have the following characters:
+_zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and create things, and share with family and friends.
+
+_zhuzhu_ had hosted many apps in his homelab, seen the lifecycle of softwares and communities, been through the hassles of migrating, over the years, _zhuzhu_ started to favor apps who have the following characters:
 
 1. Open Source
     1. Selfhosted As First-class Citizen
@@ -83,14 +85,14 @@ Docker is preferred whenever applicable. Docker makes it easier to install / upd
 
 [5] No Buggy, No Laggy
 
-[6.1] Observable & Extensible
+[6.1] Observable
 
 Not every app needs this, it's a bonus point.
 
-[6.2] Backup & Updates
+[6.3] Backup
 
-I would prefer backup and updates done beyond the app layer, it's more universal for every app, so I don't expect the app itself to be very strong in this 2.
+I would prefer backup done beyond the app layer, it's more universal for every app, so I don't expect the app itself to be very strong in this.
 
-[6.3] Security & Privacy
+[6.5] Security
 
 Security usually is not a big concern for me, not before I need to open some services to public internet.
