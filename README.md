@@ -5,6 +5,8 @@ _zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and crea
 1. Open Source
     1. Selfhosted As First-class Citizen
     2. Actively Maintained
+    3. Prosperous Community
+    4. Documentation
 2. You Own Your Data
     1. Data On My Disk
     2. Data In Open Formats
@@ -15,11 +17,12 @@ _zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and crea
 4. Docker
 5. No Buggy, No Laggy
 6. Others
-    1. Observable & Extensible
-    2. Backup & Updates
-    3. Security & Privacy
-    4. Documentation
-    5. Community
+    1. Observable
+    2. Extensible
+    3. Backup
+    4. Updates
+    5. Security
+    6. Privacy
 
 ---
 
@@ -27,7 +30,6 @@ _zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and crea
 
 Sustainable: open source may not be sufficient but very likely a necessary.  
 Trust: I want nothing hiding.  
-Community: wider support  
 
 [1.1] Selfhosted As First-class Citizen
 
@@ -39,6 +41,10 @@ Good to know it's still evolving, at least there are still eyes and hands on bug
 
 A bad smell here is outdated tech stack, like jQuery in 2025, gives me lower confidence in sustainable.
 
+[1.4] Documentation
+
+Documentation not only helps user understand, it's also a good sign of efficiency and quality.
+
 [2] You Own Your Data
 
 I don't like [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), when I go, I need to take my data with me.
@@ -49,9 +55,11 @@ I don't really own the data unless I can understand, interpret and manage the da
 
 I want data on my disk (or my cloud), instead of on vendor's cloud, so I know I have maximum control, and only I do.
 
+Plus, I want less dependencies for the app to run.
+
 [2.2] Data In Open Formats
 
-Open formats means more options, I'm less locked-in due to tech limitations.
+Open formats means more options, I'm less locked-in due to tech burdens.
 
 [2.3] Data Exportable
 
