@@ -1,63 +1,76 @@
 # zhuzhu-standard
 
-_zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and create things, run things he controls. _zhuzhu_ had hosted many apps on his homelab servers, seen the lifecycle of softwares and communities, over the years, _zhuzhu_ started to prefer apps who have the following characters:
+_zhuzhu_ is an enthusiast of **homelab**, he found it joyful to explore and create things, run things he controls. _zhuzhu_ had hosted many apps in his homelab, seen the lifecycle of softwares and communities, over the years, _zhuzhu_ started to prefer apps who have the following characters:
 
-# Standard #1 - Open Source
+1. Open Source
+    1. Selfhosted As First-class Citizen
+    2. Actively Maintained
+2. You Own Your Data
+    1. Data On My Disk
+    2. Data In Open Formats
+    3. Data Exportable
+3. Good Looking UI
+    1. Cross Platform
+    2. HTTP API
+4. Docker
+5. No Buggy, No Laggy
+6. Others
+    1. Observable & Extensible
+    2. Backup & Updates
+    3. Security & Privacy
+    4. Documentation
+    5. Community
 
-It's more about sustainable and trust.
+---
 
-Open source is not sufficient for sustainable, many open source project dies, but for live-long-and-prosper projects, open source community is very likely a necessary.
+[1]: Open Source
 
-Trust is obvious here, I don't want any hiding things, not to say harmful, running in my homelab.
+Sustainable: open source may not be sufficient but very likely a necessary.  
+Trust: I want nothing hiding.  
+Community: wider support  
 
-## 1.1 - Selfhosted As First-class Citizen
+[1.1] Selfhosted As First-class Citizen
 
 There are products who are open source, provide both cloud option and selfhosted option, but compromise features and priorities of selfhosted version, I don't like that.
 
-## 1.2 - Actively Maintained
+[1.2] Actively Maintained
 
-# Standard #2 - I Own My Data
+Good to know it's still evolving, at least there are still eyes and hands on bugs.
 
-## 2.1 - Data On My Disk
+A bad smell here is outdated tech stack, like jQuery in 2025, gives me lower confidence in sustainable.
 
-I want data on my disk (or my cloud), instead of on vendor's cloud, so I know I have maximum control, and only I do.
+[2] You Own Your Data
 
-## 2.2 - Data In Open And Popular Formats
+I don't like [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), when I go, I need to take my data with me.
 
 I don't really own the data unless I can understand, interpret and manage the data.
 
-I don't like [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in), so either data is already in open format, like markdown, or can be exported to open formats easily.
+[2.1] Data On My Disk
 
-I like apps who are open and supportive when users want to switch to another app, they help users tranfer the data, instead of holding users back.
+I want data on my disk (or my cloud), instead of on vendor's cloud, so I know I have maximum control, and only I do.
 
-Popular format is also important, better ecosystem means more options.
+[2.2] Data In Open Formats
 
-### 2.2.1 - Special Data Format For Performance
+Open formats means more options, I'm less locked-in due to tech limitations.
 
-For certain scenarios, like database, special format is required to have best performance, I'm OK with that, as long as I can export data.
+[2.3] Data Exportable
 
-# Standard #3 - Friendly UI
+I like apps who are open and supportive when users want to switch to another app, make data migration easy.
 
-## 3.1 - Cross Platform
+For certain scenarios, like database, special format is required to have better performance, I'm OK with that, as long as I can export data.
 
-## 3.2 - Good Looking And Intuitive
+[3] Good Looking UI
 
-## 3.3 - HTTP API
+[3.1] Cross Platform
 
-HTTP API is probably the most convenient and universal way to manage apps, UI and app core are decoupled, I may have more options in UI.
+[3.2] HTTP API
+
+HTTP API is probably the most convenient and universal way to manage apps, UI and app core are decoupled, 3rd party UI available.
 
 Automation is also much easier with HTTP API.
 
-# Standard #4 - Low Maintenance
+[4] Docker
 
-## 4.1 - Run In Docker
+Docker makes it easier to install / update / daemon / backup / monitor.
 
-## 4.2 - Documentation Or Community Support
-
-# Standard #5 - Observable
-
-Not every app has long-running services in the background, but when it does, I want to be able to monitor its status.
-
-# Standard #6 - Extensible
-
-Not every app needs extensibility, but when it does, I want to be capable.
+[5] No Buggy, No Laggy
